@@ -1,0 +1,58 @@
+{
+  "GENRE": {
+    "message": "🎵 Let's create your custom song!\n\nFirst, choose a genre:",
+    "options": [
+      ["Pop", "Rock"],
+      ["Jazz", "Hip-Hop"],
+      ["Classical", "Electronic"],
+      ["Cancel"]
+    ]
+  },
+  "MOOD": {
+    "message": "Now pick a mood:",
+    "options": [
+      ["Happy", "Sad"],
+      ["Chill", "Energetic"],
+      ["Romantic", "Angry"],
+      ["Cancel"]
+    ]
+  },
+  "TEMPO": {
+    "message": "Choose the tempo:",
+    "options": [
+      ["Slow", "Medium", "Fast"],
+      ["Very Fast"],
+      ["Cancel"]
+    ]
+  },
+  "INSTRUMENT": {
+    "message": "Choose an instrument:",
+    "options": [
+      ["Guitar", "Piano"],
+      ["Violin", "Drums"],
+      ["Cancel"]
+    ]
+  },
+  "LANGUAGE": {
+    "message": "Choose the language:",
+    "options": [
+      ["English", "Spanish"],
+      ["Arabic", "French"],
+      ["Cancel"]
+    ]
+  },
+  "ERA": {
+    "message": "Choose the era:",
+    "options": [
+      ["70s", "80s"],
+      ["90s", "2000s"],
+      ["Cancel"]
+    ]
+  },
+  "CONFIRM": {
+    "message": "Confirm to generate the song:",
+    "options": [
+      ["✅ Confirm", "❌ Cancel"]
+    ]
+  }
+}
